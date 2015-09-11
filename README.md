@@ -1,6 +1,6 @@
 # BMI Calculator
 
-This Web Application calculates your Body Mass Index. It is created using R Shiny and hosted on shinyio server. 
+This Web Application calculates Body Mass Index. It is created using R Shiny and hosted on shinyapps.io server. 
 
 Application Link : https://akshaykher.shinyapps.io/Project
 
